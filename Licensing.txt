@@ -1,0 +1,7 @@
+All assets used in this application have licence CCO 
+which is a Creative Commons license for all free-to-use
+assets available to the public domain without need for
+giving attribute.
+Assets were gotten from Kenney.nl as well
+as the Unity Asset Store.
+Sounds were also from the Unity Asset Store
